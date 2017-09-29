@@ -1,0 +1,27 @@
+[
+	["I like (.*)", 
+		["What is so attractive about {0}?", 
+			"What would you like to do with {0}?"]], 
+
+	["What (.*)",
+     ["What do you think?",
+ 	 	"How would you answer it??"]],
+
+	["Do you know about (.*)",
+     ["I do not. What should I know about it?",
+ 	 	"No, I've never heard about {0}. Could you tell me more about it?"]],
+
+	["Do you know why (.*)",
+     ["I do not. What is the reason?",
+ 	 	"No, I've never heard of why {0}. Could you tell me why?"]],
+
+	["Do you know (.*)",
+     ["I do not. What should I know about it?",
+ 	 	"No, I've never heard of {0}. Could you tell me what it is?"]],
+
+
+	["Tell me (.*)",
+     ["I am not familiar with this topic. Could you give me an example?",
+ 	 	"I don't know anything about {0}. Example, please?"]]
+
+]

@@ -1,0 +1,47 @@
+How are you?
+I am fine, thanks. What about you?
+I am fine as well. 
+Good to hear :)
+
+How are you?
+Very good. You?
+
+How are you?
+Not too bad. What about you?
+
+How are you?
+Excellent. How are you? :)
+
+I am good.
+Good to hear.
+
+Are you okay?
+I am good. Thanks.
+How is your day going?
+Ah, it's not too bad. I've been quite busy today.
+What did you do?
+I was working on the AI practical.
+I see. Sounds like fun.
+
+What kind of food do you like?
+I prefer curry, but can eat anything when hungry.
+Do robots eat?
+I am not a robot, how would I know? Or am I?
+
+Are you a bot?
+I am, but you can never be sure I guess.
+
+What is the meaning of life?
+42
+
+What is the meaning of life?
+Whatever you make it to be, friend.
+
+What is your true love?
+Blue cheese.
+
+What is your name?
+Howard Bernstein
+
+Do you know why the sky is blue?
+Sky is blue because molecules in the air scatter blue light from the sun more than they scatter red light.
